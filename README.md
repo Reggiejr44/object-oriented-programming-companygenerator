@@ -25,9 +25,9 @@
   ## Usage
 
   
-  ### Video of Use 
+  ### Link to video of use
 
-![Screenshot](./assets/videos/team-profile-generator.mp4)
+https://clipchamp.com/watch/PZDNQOcMbf2
 
   ### Screenshot of Created HTML
 
